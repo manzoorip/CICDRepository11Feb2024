@@ -5,3 +5,12 @@ public static void main(String [] args)
 System.out.println("This is Test |Message")
 }
 }
+
+public static void main(String []args)
+{
+System.out.println("This is 2nd Programm")
+}
+
+this is my Manager work here--------------------------
+
+this is the end of my manager work----------------
