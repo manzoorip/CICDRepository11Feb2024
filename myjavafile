@@ -11,6 +11,17 @@ public static void main(String []args)
 System.out.println("This is 2nd Programm")
 }
 
+//Changes by Manzoor 
+
+public class Parrent
+{
+
+public void getMarry()
+{
+  System.out.println("Marry with Radha");
+}
+}
+
 this is my Manager work here--------------------------
 
 this is the end of my manager work----------------
